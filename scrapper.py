@@ -5,7 +5,8 @@ import requests
 import unidecode
 from bs4 import BeautifulSoup
 
-url = "https://lightnovelfr.com/series/lord-of-the-mysteries/"
+# url = "https://lightnovelfr.com/series/lord-of-the-mysteries/"
+url = "https://lightnovelfr.com/series/the-beginning-after-the-end/"
 
 
 def download_novel(url):
